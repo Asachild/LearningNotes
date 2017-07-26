@@ -31,7 +31,7 @@
     ```
     
   * 第五步：将代码由本地仓库上传到Github远程仓库<br>
-    <b>注意</b>:本地代码目录中如果没有github仓库中的`README.md`文件,要执行以下命令，进行代码合并
+    <b>注意</b>:本地代码目录中如果没有github仓库中的`README.md`文件，要执行以下命令，进行代码合并
     ```
     git pull --rebase origin master
     ```
